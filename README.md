@@ -46,11 +46,10 @@ Different kind of branches :
 - If conflict :
 	- `git pull origin main` (make sure your in *your branch*)
 	- resolve conflict
-	- git add and commit and push
+	- Add, commit and push your local branch
 - If pull request approved :
 	- Go to main branch and get all the changes from the pull request : `git pull origin main` (make sure your in *the main branch*)
 	- delete your branch `git branch -D your-branch-name`
-
 
 5. **Other**
 - to view all existing branches `git branch -a`
