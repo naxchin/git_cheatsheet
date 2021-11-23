@@ -41,14 +41,14 @@ Different kind of branches :
 4. **Merge your branch to the main branch**
 - From your branch :
 	- Add, commit and push your local branch
-	- Bring changes from main to your local branch `git pull origin main` (before check if your in your branch)
+	- Bring changes from main to your local branch `git pull origin main` (make sure your in *your branch*)
 - Create a pull request
 - If conflict :
-	- `git pull origin main` (before check if your in your branch)
+	- `git pull origin main` (make sure your in *your branch*)
 	- resolve conflict
 	- git add and commit and push
 - If pull request approved :
-	- Go to main branch and get all the changes from the pull request : `git pull origin main` (before check if your in the main branch)
+	- Go to main branch and get all the changes from the pull request : `git pull origin main` (make sure your in *the main branch*)
 	- delete your branch `git branch -D your-branch-name`
 
 
