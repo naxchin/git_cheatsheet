@@ -18,7 +18,7 @@
 
 Different kind of branches :
 - main branch (protected)
-- feature branches
+- feature branches (one branch per feature)
 - bug fixes branches
 
 1. **To create a new branch**
